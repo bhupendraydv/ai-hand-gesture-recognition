@@ -310,14 +310,6 @@ You are free to:
 
 ---
 
-## 💡 Related Projects
-
-This is a **lightweight HUD visualization module** that can be integrated with more comprehensive systems like:
-
-🔗 [**AR Gesture AI**](https://github.com/bhupendraydv/ar-gesture-ai) - Full-stack assistive communication system for speech-disabled people using hand gestures and facial expressions.
-
----
-
 ## 📞 Support
 
 For questions, issues, or feature requests:
